@@ -10,7 +10,6 @@ It uses the npm node module, 'simple-node-logger', for it's logging solution.
 
 // Required NPM modules and files.
 // ____________________________________________________________________________________
-js
 var dotenv=require("dotenv").config();
 
 // NPM module used to access Twitter API.
@@ -21,7 +20,13 @@ var Twitter = require("twitter");
 var twitterKeysFile = require("./keys.js");
 
 // NPM module used to access Spotify API.
-var spotify = require("spotify");
+var Spotify = require("node-spotify-api");
+var spotify = new Spotify({
+	id: twitterKeysFile.spotify.id,
+	secret: twitterKeysFile.spotify.secret
+  });
+  
+
 
 // NPM module used to access OMDB API.
 var request = require("request");
@@ -91,7 +96,7 @@ function doSomething(action, argument) {
 		case "movie-this":
 
 		// First gets movie title argument.
-		var movieTitle = argument;
+		var movieTitle = argumennot;
 
 		// If no movie title provided, defaults to specific movie.
 		if (movieTitle === "") {
@@ -128,10 +133,10 @@ function getThirdArgument() {
 function getMyTweets() {
 	
 	// Passes Twitter keys into call to Twitter API.
-	var client = new Twitter(twitterKeysFile.twitterKeys);
+	var client = new Twitter(twitterKeysFile.twitter);
 
 	// Search parameters includes my tweets up to last 20 tweets;
-	var params = {q: '@RobotLiri', count: 20};
+	var params = {q: '@RobotLiri', count: 3};
 
 	// Shows up to last 20 tweets and when created in terminal.
 	client.get('search/tweets', params, function(error, tweets, response) {
@@ -154,7 +159,9 @@ function getMyTweets() {
 function getSongInfo(songTitle) {
 
 	// Calls Spotify API to retrieve a track.
-	spotify.search({type: 'track', query: songTitle}, function(err, data) {
+	console.log(twitterKeysFile.spotify.id);
+	spotify.search({type: 'track', query: 'rock star',id:twitterKeysFile.spotify.id}, function(err, data) {
+		console.log(data);
 		if (err) {
 			logOutput.error(err);
 			return
@@ -212,7 +219,7 @@ function lookupSpecificSong() {
 function getMovieInfo(movieTitle) {
 
 	// Runs a request to the OMDB API with the movie specified.
-	var queryUrl = "http://www.omdbapi.com/?t=" + movieTitle + "&y=&plot=short&tomatoes=true&r=json";
+	var queryUrl = "http://www.omdbapi.com/?t=" + movieTitle + "";
 
 	request(queryUrl, function(error, response, body) {
 	  // If the request is successful...

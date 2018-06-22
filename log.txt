@@ -1,0 +1,115 @@
+17:45:46.790 INFO  [{"code":89,"message":"Invalid or expired token."}] 
+17:48:09.908 INFO  [{"code":89,"message":"Invalid or expired token."}] 
+17:53:49.836 INFO  Tweet Text: Virginia school honoring Confederate general changes name to celebrate @BarackObama https://t.co/x8yFYASACE https://t.co/9GWQ9Xn4a8 
+17:53:49.836 INFO  Tweet Creation Date: Tue Jun 19 21:53:34 +0000 2018 
+17:53:49.837 INFO  Tweet Text: RT @TimWatsonof3: @PrimeCreator111 @FlaRhps @staggerlee422 @vesicapieces @dtrastikeville @Francis83866063 @russ_thor @JeremyRobards7 @cnill… 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:18 +0000 2018 
+17:53:49.837 INFO  Tweet Text: @Imamofpeace @Kam222Kay Here's what @BarackObama does with kids. #Pizzagate #Maga #Cabal #Globalism #Freedom #Truth… https://t.co/1zdvJNPxbY 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:15 +0000 2018 
+17:53:49.837 INFO  Tweet Text: .⁦@RepCummings⁩ .⁦@HillaryClinton⁩ ⁦@laurawbush⁩ ⁦@MichelleObama⁩ ⁦@Oprah⁩ 
+⁦@RepSwalwell⁩ @barackobama @abc @cbs… https://t.co/6fEHpJm28c 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:14 +0000 2018 
+17:53:49.837 INFO  Tweet Text: RT @MichaelAvenatti: It does not matter who started the family separation policy. Even if it was @BarackObama (it wasn't), Trump has consis… 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:14 +0000 2018 
+17:53:49.837 INFO  Tweet Text: RT @ObamaFoundation: "Juneteenth is a time to recommit ourselves to the work that remains undone. We remember that even in the darkest hour… 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:14 +0000 2018 
+17:53:49.837 INFO  Tweet Text: RT @polijaytweets: I get asked why I use #nosides. It’s because I know @BarackObama did some things I’m not proud of, @JustinTrudeau takes… 
+17:53:49.837 INFO  Tweet Creation Date: Tue Jun 19 21:53:02 +0000 2018 
+17:53:49.837 INFO  Tweet Text: @USAHotLips @Oprah @BarackObama @GaetaSusan @carrieksada @DonnaWR8 @TrumpGirlStrong @1Romans58 @RealMAGASteve… https://t.co/Sf7gHQ6wrV 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:53:01 +0000 2018 
+17:53:49.838 INFO  Tweet Text: RT @MichaelAvenatti: It does not matter who started the family separation policy. Even if it was @BarackObama (it wasn't), Trump has consis… 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:53:00 +0000 2018 
+17:53:49.838 INFO  Tweet Text: RT @MichaelAvenatti: It does not matter who started the family separation policy. Even if it was @BarackObama (it wasn't), Trump has consis… 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:57 +0000 2018 
+17:53:49.838 INFO  Tweet Text: @MichelleObama @BarackObama It's time for you politicians to RESPECT the party in office and work TOGETHER for the… https://t.co/mkZgK1IGZT 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:55 +0000 2018 
+17:53:49.838 INFO  Tweet Text: @BarackObama “If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The li… https://t.co/QyeInPLTta 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:55 +0000 2018 
+17:53:49.838 INFO  Tweet Text: RT @RepBeatty: "A child on the other side of the border is no less worthy of love and compassion than my own child." - @BarackObama https:/… 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:54 +0000 2018 
+17:53:49.838 INFO  Tweet Text: @LeeCamp @Truthdig Will he run out of bombs like @BarackObama ? 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:45 +0000 2018 
+17:53:49.838 INFO  Tweet Text: So THIS is what @BarackObama meant by HOPE and change... https://t.co/XjlR1bClVE 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:42 +0000 2018 
+17:53:49.838 INFO  Tweet Text: RT @ObamaFoundation: "Juneteenth is a time to recommit ourselves to the work that remains undone. We remember that even in the darkest hour… 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:41 +0000 2018 
+17:53:49.838 INFO  Tweet Text: RT @TT45Pac: So let me get this straight.....
+
+It's OK when .@BillClinton and .@BarackObama say it
+
+But it is NOT ok if .@RealDonaldTrump s… 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:36 +0000 2018 
+17:53:49.838 INFO  Tweet Text: @netflix 
+
+Trying to get more people on meds and create more shooters? Typical @dnc @BarackObama @NancyPelosi techn… https://t.co/6pPEkr4Uso 
+17:53:49.838 INFO  Tweet Creation Date: Tue Jun 19 21:52:36 +0000 2018 
+18:15:19.162 INFO  Tweet Text: @katyperry só para baixinhos @xuxameneghel https://t.co/zPk22vEil8 
+18:15:19.162 INFO  Tweet Creation Date: Tue Jun 19 22:15:03 +0000 2018 
+18:15:19.162 INFO  Tweet Text: ITI MALIA 💗 @katyperry https://t.co/cFa3JUPSfh 
+18:15:19.162 INFO  Tweet Creation Date: Tue Jun 19 22:14:29 +0000 2018 
+18:15:19.162 INFO  Tweet Text: RT @billboard: On this day in 2010, @katyperry &amp; @SnoopDogg went No. 1 on the #Hot100 with "California Gurls" 😎 https://t.co/E3HL6qwXSP 
+18:15:19.162 INFO  Tweet Creation Date: Tue Jun 19 22:14:16 +0000 2018 
+18:15:19.162 INFO  Tweet Text: RT @OTM_Mag: You’re gonna love our June issue 🎉 @calumscott @LewisCapaldi @itskingdm @nownowband @QueensChristine @HYPHENHYPHEN @claralucia… 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:14:06 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @KPBRSITE: Hino atemporal: 
+
+Há 8 anos, “California Gurls” alcançava o topo da Billboard Hot 100 onde permaneceu por 6 semanas. 
+
+A revi… 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:14:05 +0000 2018 
+18:15:19.163 INFO  Tweet Text: You’re gonna love our June issue 🎉 @calumscott @LewisCapaldi @itskingdm @nownowband @QueensChristine @HYPHENHYPHEN… https://t.co/PLCSQr0hlZ 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:52 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @katyperry: Scandinavians have figured it out. 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:32 +0000 2018 
+18:15:19.163 INFO  Tweet Text: Every show just gets better and better. See you Thursday @katyperry. #WitnessTheTour 👁❤️ https://t.co/37MJ5SDcaO 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:21 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @billboard: On this day in 2010, @katyperry &amp; @SnoopDogg went No. 1 on the #Hot100 with "California Gurls" 😎 https://t.co/E3HL6qwXSP 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:07 +0000 2018 
+18:15:19.163 INFO  Tweet Text: @BhadBhabie @katyperry 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:06 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @billboard: On this day in 2010, @katyperry &amp; @SnoopDogg went No. 1 on the #Hot100 with "California Gurls" 😎 https://t.co/E3HL6qwXSP 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:04 +0000 2018 
+18:15:19.163 INFO  Tweet Text: Ainda tenho esperança 💗 @katyperry https://t.co/UcMF5L8pM3 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:03 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @KPBRSITE: Hino atemporal: 
+
+Há 8 anos, “California Gurls” alcançava o topo da Billboard Hot 100 onde permaneceu por 6 semanas. 
+
+A revi… 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:13:01 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @Witnesslove1: I love this version of Wide Awake❣❤❣ @katyperry https://t.co/3YiNKFAXvc 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:12:59 +0000 2018 
+18:15:19.163 INFO  Tweet Text: @NMelissaW @katyperry Thank youuuu!! 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:12:57 +0000 2018 
+18:15:19.163 INFO  Tweet Text: RT @radiodisney: Watch the #RDMA Saturday at 8p on
+@DisneyChannel to find out how to win trips to see @KelseaBallerini, @ShawnMendes &amp; @kat… 
+18:15:19.163 INFO  Tweet Creation Date: Tue Jun 19 22:12:55 +0000 2018 
+18:15:19.164 INFO  Tweet Text: @RachaelWabel @katyperry Thankfully haha!! So much better without a break in it! 
+18:15:19.164 INFO  Tweet Creation Date: Tue Jun 19 22:12:51 +0000 2018 
+18:15:19.164 INFO  Tweet Text: @pacman522 @DualityMan @dum_phuk @SharmilaW @psundin777 @MileHighWillY @DanaElizabeth69 @kr4ydnb @dot_main @llotus6… https://t.co/tHVecS286f 
+18:15:19.164 INFO  Tweet Creation Date: Tue Jun 19 22:12:46 +0000 2018 
+18:15:19.164 INFO  Tweet Text: @DrOlivia_LeChat @katyperry She brought the wishing star back! 
+18:15:19.164 INFO  Tweet Creation Date: Tue Jun 19 22:12:41 +0000 2018 
+18:15:19.164 INFO  Tweet Text: RT @yearsandyears: Thank you @katyperry for having me at ur show, it was amazing ✨❤️ I want to fly around on a planet with u ☄️💫 https://t.… 
+18:15:19.164 INFO  Tweet Creation Date: Tue Jun 19 22:12:40 +0000 2018 
+18:17:26.744 INFO  Tweet Text: @jefftimbre thanks for sharing, Jeff! Hope you’ve enjoyed the read! 🙌
+-Tom 
+18:17:26.744 INFO  Tweet Creation Date: Fri Jun 15 05:33:39 +0000 2018 
+18:19:22.279 INFO  Tweet Text: RT @mjjperry: Every show just gets better and better. See you Thursday @katyperry. #WitnessTheTour 👁❤️ https://t.co/37MJ5SDcaO 
+18:19:22.279 INFO  Tweet Creation Date: Tue Jun 19 22:18:55 +0000 2018 
+18:19:22.279 INFO  Tweet Text: RT @pacman522: @DualityMan @dum_phuk @SharmilaW @psundin777 @MileHighWillY @DanaElizabeth69 @kr4ydnb @dot_main @llotus6 @PapillonThyroid @J… 
+18:19:22.279 INFO  Tweet Creation Date: Tue Jun 19 22:18:52 +0000 2018 
+18:20:04.919 INFO  Tweet Text: Will you support them  @EmilyShutt2018 @missmybabyboy @harveysjourney @RileysJourney_ @alexs_journey @redragdolly… https://t.co/REFSJGoz6h 
+18:20:04.919 INFO  Tweet Creation Date: Tue Jun 19 21:58:16 +0000 2018 
+18:20:04.919 INFO  Tweet Text: RT @LuceHNewman: This is sweet Jess. For the first time in battling for 7 years, her cancer has spread and there is very little that can be… 
+18:20:04.919 INFO  Tweet Creation Date: Tue Jun 19 21:57:33 +0000 2018 
+18:20:22.075 INFO  Tweet Text: Will you support them  @EmilyShutt2018 @missmybabyboy @harveysjourney @RileysJourney_ @alexs_journey @redragdolly… https://t.co/REFSJGoz6h 
+18:20:22.075 INFO  Tweet Creation Date: Tue Jun 19 21:58:16 +0000 2018 
+18:20:22.075 INFO  Tweet Text: RT @LuceHNewman: This is sweet Jess. For the first time in battling for 7 years, her cancer has spread and there is very little that can be… 
+18:20:22.075 INFO  Tweet Creation Date: Tue Jun 19 21:57:33 +0000 2018 
+18:22:16.451 INFO  Tweet Text: Hey there @RobotLiri 
+18:22:16.451 INFO  Tweet Creation Date: Tue Jun 19 22:21:46 +0000 2018 
+21:42:24.772 INFO  Artist(s): Shop Boyz 
+21:42:24.772 INFO  Song: Party Like A Rock Star 
+21:42:24.772 INFO  Spotify Preview URL: null 
+21:42:24.772 INFO  Album Name: Party Like A Rockstar 
