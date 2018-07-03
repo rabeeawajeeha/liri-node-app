@@ -96,7 +96,7 @@ function doSomething(action, argument) {
 		case "movie-this":
 
 		// First gets movie title argument.
-		var movieTitle = argumennot;
+		var movieTitle = argument;
 
 		// If no movie title provided, defaults to specific movie.
 		if (movieTitle === "") {
@@ -118,15 +118,7 @@ function doSomething(action, argument) {
 // Returns optional third argument, for example,
 // when requesting song information, include a song title.
 function getThirdArgument() {
-
-	// Stores all possible arguments in array.
-	argumentArray = process.argv;
-
-	// Loops through words in node argument.
-	for (var i = 3; i < argumentArray.length; i++) {
-		argument += argumentArray[i];
-	}
-	return argument;
+	return process.argv.slice(3).join(" ")
 }
 
 // Function to show my last 20 tweets.
@@ -138,21 +130,39 @@ function getMyTweets() {
 	// Search parameters includes my tweets up to last 20 tweets;
 	var params = {q: '@RobotLiri', count: 3};
 
-	// Shows up to last 20 tweets and when created in terminal.
-	client.get('search/tweets', params, function(error, tweets, response) {
-	  if (!error) {
+var newTweet = process.argv.splice(3).join(" ");
 
-	  	// Loops through tweets and prints out tweet text and creation date.
-	  	for (var i = 0; i < tweets.statuses.length; i++) {
-	  		var tweetText = tweets.statuses[i].text;
-	  		logOutput("Tweet Text: " + tweetText);
-	  		var tweetCreationDate = tweets.statuses[i].created_at;
-	  		logOutput("Tweet Creation Date: " + tweetCreationDate);
-	  	}
-	  } else {
-	  	logOutput(error);
-	  }
-	});
+        function postTweet(){
+            console.log("\nposting new tweet...")
+            client.post('statuses/update', {status: newTweet},  function(error, tweet, response) {
+              if(error) throw error;
+              console.log(tweet.user.screen_name);
+              console.log(tweet.created_at);
+              console.log(tweet.text)
+            });        
+        };
+
+        function getTweets(){
+            client.get('statuses/user_timeline', params, function(error, tweets, response) {
+              if (!error) {
+
+                for(var i=0;i<tweets.length;i++){
+                    console.log("\n--------------------------------------------------------------------------------------------------");
+                    console.log("\nUser:"+tweets[i].user.screen_name);
+                    console.log("\nTime:"+tweets[i].created_at);
+                    console.log("\nUser:"+tweets[i].text);                
+                };
+              };
+            });
+        };
+
+
+    if (newTweet){
+        postTweet();
+    }else{
+        getTweets();
+    }
+
 }
 
 // Calls Spotify API to retrieve song information for song title.
@@ -219,7 +229,7 @@ function lookupSpecificSong() {
 function getMovieInfo(movieTitle) {
 
 	// Runs a request to the OMDB API with the movie specified.
-	var queryUrl = "http://www.omdbapi.com/?t=" + movieTitle + "";
+	var queryUrl = "http://www.omdbapi.com/?t=" + movieTitle + "&apikey=40e9cece&y=&plot=short&r=json&tomatoes=true";
 
 	request(queryUrl, function(error, response, body) {
 	  // If the request is successful...

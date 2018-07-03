@@ -113,3 +113,18 @@ A revi…
 21:42:24.772 INFO  Song: Party Like A Rock Star 
 21:42:24.772 INFO  Spotify Preview URL: null 
 21:42:24.772 INFO  Album Name: Party Like A Rockstar 
+17:24:26.799 INFO  Tweet Text: Hello @RobotLiri 
+17:24:26.799 INFO  Tweet Creation Date: Tue Jun 19 22:39:51 +0000 2018 
+17:24:46.227 INFO  Artist(s): Shop Boyz 
+17:24:46.227 INFO  Song: Party Like A Rock Star 
+17:24:46.227 INFO  Spotify Preview URL: null 
+17:24:46.227 INFO  Album Name: Party Like A Rockstar 
+19:44:38.064 INFO  Movie Title: Mr. Nobody 
+19:44:38.065 INFO  Release Year: 2009 
+19:44:38.065 INFO  IMDB Rating: 7.9 
+19:44:38.065 INFO  Country Produced In: Belgium, Germany, Canada, France, USA, UK 
+19:44:38.066 INFO  Language: English, Mohawk 
+19:44:38.066 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+19:44:38.066 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+19:44:38.066 INFO  Rotten Tomatoes Rating: 63/100 
+19:44:38.066 INFO  Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/ 
